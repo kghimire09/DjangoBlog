@@ -1,0 +1,47 @@
+
+
+/* All the other styling */
+.techfont{
+  font-family: 'Black Ops One', cursive;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+.postdate{
+  text-align: center;
+}
+.posttitile{
+  font-family: 'Black Ops One', cursive;
+  font-size: 3em;
+  text-align: center;
+}
+.postcontent{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5em;
+}
+.commentcontent{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1em;
+}
+.commentclass{
+  text-align: center;
+}
+.addcomment{
+  display: inline-block;
+  float: left;
+}
+.navbar{
+  height: 80px;
+}
+.navbar-bigbrand{
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}
